@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\bin\Debug\net9.0\trpg2.exe
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\bin\Debug\net9.0\trpg2.deps.json
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\bin\Debug\net9.0\trpg2.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\bin\Debug\net9.0\trpg2.dll
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\bin\Debug\net9.0\trpg2.pdb
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.dll
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\refint\trpg2.dll
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.pdb
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\trpg2.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250820\trpg2\trpg2\obj\Debug\net9.0\ref\trpg2.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\bin\Debug\net9.0\2_다형성.exe
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\bin\Debug\net9.0\2_다형성.deps.json
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\bin\Debug\net9.0\2_다형성.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\bin\Debug\net9.0\2_다형성.dll
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\bin\Debug\net9.0\2_다형성.pdb
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.dll
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\refint\2_다형성.dll
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.pdb
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\2_다형성.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250813\2_다형성\2_다형성\obj\Debug\net9.0\ref\2_다형성.dll

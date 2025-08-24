@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "c#_0_클래스/1.0.0": {
+        "runtime": {
+          "c#_0_클래스.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c#_0_클래스/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

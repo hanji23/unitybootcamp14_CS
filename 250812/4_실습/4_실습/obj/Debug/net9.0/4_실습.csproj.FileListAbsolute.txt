@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\bin\Debug\net9.0\4_실습.exe
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\bin\Debug\net9.0\4_실습.deps.json
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\bin\Debug\net9.0\4_실습.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\bin\Debug\net9.0\4_실습.dll
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\bin\Debug\net9.0\4_실습.pdb
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.dll
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\refint\4_실습.dll
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.pdb
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\4_실습.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250812\4_실습\4_실습\obj\Debug\net9.0\ref\4_실습.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\bin\Debug\net9.0\생성자2.exe
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\bin\Debug\net9.0\생성자2.deps.json
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\bin\Debug\net9.0\생성자2.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\bin\Debug\net9.0\생성자2.dll
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\bin\Debug\net9.0\생성자2.pdb
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.dll
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\refint\생성자2.dll
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.pdb
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\생성자2.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250806\생성자2\생성자2\obj\Debug\net9.0\ref\생성자2.dll

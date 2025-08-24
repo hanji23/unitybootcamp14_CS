@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\bin\Debug\net9.0\5_리스트.exe
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\bin\Debug\net9.0\5_리스트.deps.json
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\bin\Debug\net9.0\5_리스트.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\bin\Debug\net9.0\5_리스트.dll
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\bin\Debug\net9.0\5_리스트.pdb
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.dll
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\refint\5_리스트.dll
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.pdb
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\5_리스트.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250821\5_리스트\5_리스트\obj\Debug\net9.0\ref\5_리스트.dll

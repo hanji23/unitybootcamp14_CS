@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\bin\Debug\net9.0\c#_0_클래스.exe
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\bin\Debug\net9.0\c#_0_클래스.deps.json
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\bin\Debug\net9.0\c#_0_클래스.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\bin\Debug\net9.0\c#_0_클래스.dll
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\bin\Debug\net9.0\c#_0_클래스.pdb
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.dll
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\refint\c#_0_클래스.dll
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.pdb
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\c#_0_클래스.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250805\c#_0_클래스\c#_0_클래스\obj\Debug\net9.0\ref\c#_0_클래스.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\bin\Debug\net9.0\6_딕셔너리.exe
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\bin\Debug\net9.0\6_딕셔너리.deps.json
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\bin\Debug\net9.0\6_딕셔너리.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\bin\Debug\net9.0\6_딕셔너리.dll
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\bin\Debug\net9.0\6_딕셔너리.pdb
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.dll
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\refint\6_딕셔너리.dll
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.pdb
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\6_딕셔너리.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250821\6_딕셔너리\6_딕셔너리\obj\Debug\net9.0\ref\6_딕셔너리.dll

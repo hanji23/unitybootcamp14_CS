@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\bin\Debug\net9.0\3_문자열.exe
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\bin\Debug\net9.0\3_문자열.deps.json
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\bin\Debug\net9.0\3_문자열.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\bin\Debug\net9.0\3_문자열.dll
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\bin\Debug\net9.0\3_문자열.pdb
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.dll
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\refint\3_문자열.dll
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.pdb
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\3_문자열.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250813\3_문자열\3_문자열\obj\Debug\net9.0\ref\3_문자열.dll

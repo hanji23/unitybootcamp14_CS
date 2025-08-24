@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\bin\Debug\net9.0\Generic.exe
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\bin\Debug\net9.0\Generic.deps.json
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\bin\Debug\net9.0\Generic.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\bin\Debug\net9.0\Generic.dll
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\bin\Debug\net9.0\Generic.pdb
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.dll
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\refint\Generic.dll
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.pdb
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\Generic.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250822\1_Generic\Generic\obj\Debug\net9.0\ref\Generic.dll

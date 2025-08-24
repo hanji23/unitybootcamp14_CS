@@ -1,0 +1,14 @@
+C:\study\ConsoleApp250722\ConsoleApp250722\bin\Debug\net9.0\ConsoleApp250722.exe
+C:\study\ConsoleApp250722\ConsoleApp250722\bin\Debug\net9.0\ConsoleApp250722.deps.json
+C:\study\ConsoleApp250722\ConsoleApp250722\bin\Debug\net9.0\ConsoleApp250722.runtimeconfig.json
+C:\study\ConsoleApp250722\ConsoleApp250722\bin\Debug\net9.0\ConsoleApp250722.dll
+C:\study\ConsoleApp250722\ConsoleApp250722\bin\Debug\net9.0\ConsoleApp250722.pdb
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.AssemblyInfoInputs.cache
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.AssemblyInfo.cs
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.csproj.CoreCompileInputs.cache
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.dll
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\refint\ConsoleApp250722.dll
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.pdb
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ConsoleApp250722.genruntimeconfig.cache
+C:\study\ConsoleApp250722\ConsoleApp250722\obj\Debug\net9.0\ref\ConsoleApp250722.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250729\250729\bin\Debug\net9.0\250729.exe
+C:\Users\user\Documents\GitHub\C#\250729\250729\bin\Debug\net9.0\250729.deps.json
+C:\Users\user\Documents\GitHub\C#\250729\250729\bin\Debug\net9.0\250729.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250729\250729\bin\Debug\net9.0\250729.dll
+C:\Users\user\Documents\GitHub\C#\250729\250729\bin\Debug\net9.0\250729.pdb
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.dll
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\refint\250729.dll
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.pdb
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\250729.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250729\250729\obj\Debug\net9.0\ref\250729.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\bin\Debug\net9.0\1_.exe
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\bin\Debug\net9.0\1_.deps.json
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\bin\Debug\net9.0\1_.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\bin\Debug\net9.0\1_.dll
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\bin\Debug\net9.0\1_.pdb
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.dll
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\refint\1_.dll
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.pdb
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\1_.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250813\1_캡슐화\1_\obj\Debug\net9.0\ref\1_.dll

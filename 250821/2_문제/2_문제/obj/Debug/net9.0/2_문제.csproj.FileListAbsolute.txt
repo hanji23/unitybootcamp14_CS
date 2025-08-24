@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\bin\Debug\net9.0\2_문제.exe
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\bin\Debug\net9.0\2_문제.deps.json
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\bin\Debug\net9.0\2_문제.runtimeconfig.json
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\bin\Debug\net9.0\2_문제.dll
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\bin\Debug\net9.0\2_문제.pdb
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.dll
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\refint\2_문제.dll
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.pdb
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\2_문제.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\C#\250820\2_문제\2_문제\obj\Debug\net9.0\ref\2_문제.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "재귀함수 예시/1.0.0": {
+        "runtime": {
+          "재귀함수 예시.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "재귀함수 예시/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
