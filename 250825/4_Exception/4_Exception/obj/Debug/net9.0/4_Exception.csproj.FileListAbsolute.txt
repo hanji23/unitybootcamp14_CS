@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\bin\Debug\net9.0\4_Exception.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\bin\Debug\net9.0\4_Exception.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\bin\Debug\net9.0\4_Exception.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\bin\Debug\net9.0\4_Exception.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\bin\Debug\net9.0\4_Exception.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\refint\4_Exception.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\4_Exception.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\4_Exception\4_Exception\obj\Debug\net9.0\ref\4_Exception.dll

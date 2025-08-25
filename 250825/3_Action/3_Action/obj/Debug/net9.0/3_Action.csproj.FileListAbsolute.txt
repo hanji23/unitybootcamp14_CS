@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\bin\Debug\net9.0\3_Action.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\bin\Debug\net9.0\3_Action.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\bin\Debug\net9.0\3_Action.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\bin\Debug\net9.0\3_Action.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\bin\Debug\net9.0\3_Action.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\refint\3_Action.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\3_Action.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\3_Action\3_Action\obj\Debug\net9.0\ref\3_Action.dll

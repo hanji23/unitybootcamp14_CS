@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\bin\Debug\net9.0\1_delegate_대리자.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\bin\Debug\net9.0\1_delegate_대리자.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\bin\Debug\net9.0\1_delegate_대리자.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\bin\Debug\net9.0\1_delegate_대리자.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\bin\Debug\net9.0\1_delegate_대리자.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\refint\1_delegate_대리자.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\1_delegate_대리자.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250825\1_delegate_대리자\1_delegate_대리자\obj\Debug\net9.0\ref\1_delegate_대리자.dll
