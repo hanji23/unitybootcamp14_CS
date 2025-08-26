@@ -34,7 +34,7 @@ namespace _5_Lambda_func
         Action action;
         // ㄴ delegate void Action();
 
-        //반환값이 있는 미리 만들어둔 델리게이트 (마지막 T가 반환값)
+        //반환값이 있는 미리 만들어둔 델리게이트 (마지막 T가 반환값) func<(매개값), 반환값)>
         Func<int, int> func;
         // ㄴ delegate int func(int);
 

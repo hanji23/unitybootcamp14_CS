@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\bin\Debug\net9.0\1_Reflection.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\bin\Debug\net9.0\1_Reflection.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\bin\Debug\net9.0\1_Reflection.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\bin\Debug\net9.0\1_Reflection.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\bin\Debug\net9.0\1_Reflection.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\refint\1_Reflection.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\1_Reflection.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection\1_Reflection\obj\Debug\net9.0\ref\1_Reflection.dll

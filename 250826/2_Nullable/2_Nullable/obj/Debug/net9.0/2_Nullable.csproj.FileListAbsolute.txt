@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\bin\Debug\net9.0\2_Nullable.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\bin\Debug\net9.0\2_Nullable.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\bin\Debug\net9.0\2_Nullable.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\bin\Debug\net9.0\2_Nullable.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\bin\Debug\net9.0\2_Nullable.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\refint\2_Nullable.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\2_Nullable.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\2_Nullable\2_Nullable\obj\Debug\net9.0\ref\2_Nullable.dll

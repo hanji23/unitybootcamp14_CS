@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2_제네릭문제")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa2a3af51fd64dc0ee4c69ce67f732620b7f184")]
 [assembly: System.Reflection.AssemblyProductAttribute("2_제네릭문제")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2_제네릭문제")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
