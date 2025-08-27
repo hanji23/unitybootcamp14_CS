@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\bin\Debug\net9.0\mylist.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\bin\Debug\net9.0\mylist.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\bin\Debug\net9.0\mylist.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\bin\Debug\net9.0\mylist.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\bin\Debug\net9.0\mylist.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\refint\mylist.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\mylist.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\mylist\mylist\obj\Debug\net9.0\ref\mylist.dll
