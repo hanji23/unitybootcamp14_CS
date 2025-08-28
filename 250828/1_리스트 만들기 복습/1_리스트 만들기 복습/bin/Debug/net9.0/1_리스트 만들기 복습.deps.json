@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1_리스트 만들기 복습/1.0.0": {
+        "runtime": {
+          "1_리스트 만들기 복습.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_리스트 만들기 복습/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

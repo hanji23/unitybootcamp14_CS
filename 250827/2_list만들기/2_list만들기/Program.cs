@@ -49,7 +49,7 @@ namespace _2_list만들기
 
         public void RemovewAt(int index)
         {
-            for (int i = index; i < count - 1; i++)
+            for (int i = index; i < count - 1; i++) // (count - 1) -> count 하면 더 깔끔함
             {
                 _data[i] = _data[i + 1];
             }

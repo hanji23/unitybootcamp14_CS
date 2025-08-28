@@ -28,7 +28,7 @@
 
     //}
 
-    //이런 경우는 인터페이스를 사용
+    //이런 경우는 인터페이스를 사용 (관례상 이름에 I(i)를 붙임)
     interface IElement
     {
         void ElementalAttack();

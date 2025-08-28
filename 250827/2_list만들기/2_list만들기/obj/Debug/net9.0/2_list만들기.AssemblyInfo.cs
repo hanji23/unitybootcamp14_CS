@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2_list만들기")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+366a7530d94a7d94520e316227eab800a6365da1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79eed65360b8a20f899e43ebe22810c5a4d02005")]
 [assembly: System.Reflection.AssemblyProductAttribute("2_list만들기")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2_list만들기")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

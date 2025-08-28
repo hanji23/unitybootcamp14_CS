@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\bin\Debug\net9.0\2_list만들기.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\bin\Debug\net9.0\2_list만들기.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\bin\Debug\net9.0\2_list만들기.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\bin\Debug\net9.0\2_list만들기.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\bin\Debug\net9.0\2_list만들기.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\refint\2_list만들기.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\2_list만들기.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250827\2_list만들기\2_list만들기\obj\Debug\net9.0\ref\2_list만들기.dll
