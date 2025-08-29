@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\bin\Debug\net9.0\2_Stack_Queue.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\bin\Debug\net9.0\2_Stack_Queue.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\bin\Debug\net9.0\2_Stack_Queue.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\bin\Debug\net9.0\2_Stack_Queue.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\bin\Debug\net9.0\2_Stack_Queue.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\refint\2_Stack_Queue.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\2_Stack_Queue.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250829\2_Stack_Queue\2_Stack_Queue\obj\Debug\net9.0\ref\2_Stack_Queue.dll
