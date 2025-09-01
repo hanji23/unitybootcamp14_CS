@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\bin\Debug\net9.0\2_BFS.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\bin\Debug\net9.0\2_BFS.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\bin\Debug\net9.0\2_BFS.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\bin\Debug\net9.0\2_BFS.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\bin\Debug\net9.0\2_BFS.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\refint\2_BFS.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\2_BFS.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250901\2_BFS\2_BFS\obj\Debug\net9.0\ref\2_BFS.dll
