@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("재귀함수 예시")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d962a75457a3094c17621d614303dce74aeb44")]
 [assembly: System.Reflection.AssemblyProductAttribute("재귀함수 예시")]
 [assembly: System.Reflection.AssemblyTitleAttribute("재귀함수 예시")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

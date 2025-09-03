@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\C#\\250812\\1_OOP\\1_OOP\\1_OOP.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250812\\1_OOP\\1_OOP\\1_OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\C#\\250812\\1_OOP\\1_OOP\\1_OOP.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250812\\1_OOP\\1_OOP\\1_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C#\\250812\\1_OOP\\1_OOP\\1_OOP.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250812\\1_OOP\\1_OOP\\1_OOP.csproj",
         "projectName": "1_OOP",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C#\\250812\\1_OOP\\1_OOP\\1_OOP.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250812\\1_OOP\\1_OOP\\1_OOP.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C#\\250812\\1_OOP\\1_OOP\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250812\\1_OOP\\1_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

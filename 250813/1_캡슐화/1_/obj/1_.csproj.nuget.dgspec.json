@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\C#\\250813\\1_캡슐화\\1_\\1_.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250813\\1_캡슐화\\1_\\1_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\C#\\250813\\1_캡슐화\\1_\\1_.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250813\\1_캡슐화\\1_\\1_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\C#\\250813\\1_캡슐화\\1_\\1_.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250813\\1_캡슐화\\1_\\1_.csproj",
         "projectName": "1_",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\C#\\250813\\1_캡슐화\\1_\\1_.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250813\\1_캡슐화\\1_\\1_.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\C#\\250813\\1_캡슐화\\1_\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\unitybootcamp14_CS\\250813\\1_캡슐화\\1_\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
