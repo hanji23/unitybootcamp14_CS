@@ -48,7 +48,7 @@
 
             //    Vertex[3].edges.Add(Vertex[4]);
 
-            //List<int>[] adj = new List<int>[5]
+            //List<int>[] adj = new List<int>[5] // 인버리스트 방식 연결 부분만 표현하기 때문에 메모리를 아낄수 있음
             //{
             //    new List<int> { 1, 2, },
             //    new List<int> { 2, 3, },
@@ -66,7 +66,7 @@
             //    new List<Edge> { new Edge(1, 2), new Edge(2, 1) }
             //};
 
-            int[,] adj = new int[5, 5]
+            int[,] adj = new int[5, 5] //인접행렬
             {
                 { 0, 1, 1, 0, 0 }, // 0번점 표시 (2번점과 3번점 연결)
                 { 1, 0, 1, 1, 0 }, // 1번점 표시
