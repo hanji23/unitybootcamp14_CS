@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\bin\Debug\net9.0\1_Tree.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\bin\Debug\net9.0\1_Tree.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\bin\Debug\net9.0\1_Tree.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\bin\Debug\net9.0\1_Tree.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\bin\Debug\net9.0\1_Tree.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\refint\1_Tree.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\1_Tree.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250905\1_Tree\1_Tree\obj\Debug\net9.0\ref\1_Tree.dll
