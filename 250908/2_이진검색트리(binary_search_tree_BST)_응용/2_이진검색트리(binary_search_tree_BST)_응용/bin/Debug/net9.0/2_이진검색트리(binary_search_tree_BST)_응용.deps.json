@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "2_이진검색트리(binary_search_tree_BST)_응용/1.0.0": {
+        "runtime": {
+          "2_이진검색트리(binary_search_tree_BST)_응용.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_이진검색트리(binary_search_tree_BST)_응용/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
