@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "4_dfs bfs 관련 문제2/1.0.0": {
+        "runtime": {
+          "4_dfs bfs 관련 문제2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_dfs bfs 관련 문제2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

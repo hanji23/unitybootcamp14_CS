@@ -14,12 +14,12 @@
     {
         int[,] adj = new int[6, 6] //인접행렬방식
         {
-            { 0, 1, 0, 1, 0, 0 },
-            { 1, 0, 1, 1, 0, 0 },
-            { 0, 1, 0, 0, 0, 0 },
-            { 1, 1, 0, 0, 1, 0 },
-            { 0, 0, 0, 1, 0, 1 },
-            { 0, 0, 0, 0, 1, 0 }
+            { 0, 1, 0, 1, 0, 0, },
+            { 1, 0, 1, 1, 0, 0, },
+            { 0, 1, 0, 0, 0, 0, },
+            { 1, 1, 0, 0, 0, 0, },
+            { 0, 0, 0, 0, 0, 1, },
+            { 0, 0, 0, 0, 1, 0, }
         };
 
         bool[] found = new bool[6];
@@ -61,14 +61,14 @@
             //    SearchAll(next);
             //}
 
-            for (int next = 0; next < adj.GetLength(0); next++)
-            {
+            //for (int next = 0; next < adj.GetLength(0); next++)
+            //{
 
-                if (found[next] == false)
-                {
-                    DFS(next);
-                }
-            }
+            //    if (found[next] == false)
+            //    {
+            //        DFS(next);
+            //    }
+            //}
         }
     }
     internal class Program
@@ -77,8 +77,8 @@
         {
             Console.WriteLine("Hello, World!");
             Graph graph = new Graph();
-            //graph.DFS(0);
-            graph.SearchAll(0);
+            graph.DFS(0);
+            //graph.SearchAll(0);
         }
     }
 }
