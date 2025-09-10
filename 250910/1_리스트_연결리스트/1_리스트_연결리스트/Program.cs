@@ -79,14 +79,16 @@
 
         public void Remove(Node data) 
         {
+
             if (data == head)
             {
-                head = null;
+                //head = null;
+                head = head.next;
             }
 
             if (data == tail)
             {
-                tail = null;
+                tail = tail.prev;
             }
 
             if (data.prev != null)
@@ -134,11 +136,11 @@
 
             MyList2 i2 = new MyList2();
 
-            i2.AddLast(1);
+            Node n = i2.AddLast(1);
             i2.AddLast(2);
             i2.AddLast(3);
             i2.AddLast(4);
-            Node n = i2.AddLast(5);
+            i2.AddLast(5);
 
             i2.Remove(n);
         }
