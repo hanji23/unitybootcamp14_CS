@@ -6,7 +6,7 @@
 
         int count = 0;
 
-        //인덱서는 패스
+        //인덱서는 잠시 패스
 
         public void add(T t)
         {
