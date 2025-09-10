@@ -1,4 +1,5 @@
 
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -42,7 +43,8 @@ public class Player : MonoBehaviour
         _lastIndex = 0;
 
         //RightHand();
-        BFS();
+        //BFS();
+        Astar();
 
         _isBoardCreated = true;
 
@@ -175,30 +177,194 @@ public class Player : MonoBehaviour
             }
         }
 
+        CalcPathFromParent(parant);
+
+        //int y = _board.DestY;
+        //int x = _board.DestX; 
+
+        //while (parant[y, x].Y != y || parant[y, x].X != x)
+        //{
+        //    //_points.Push(new Pos(y, x));
+
+        //    //[0] => 목적지
+        //    //[1] => 목적지 부모
+        //    // ...
+        //    //[마지막인덱스] => 최초 지점
+
+        //    _points.Add(new Pos(y, x));
+        //    Pos pos = parant[y, x];
+        //    y = pos.Y;
+        //    x = pos.X;
+        //}
+
+        //_points.Add(new Pos(y, x)); // 최초지점 수동추가
+        //_points.Reverse();
+        ////[0] => 최초 지점
+        ////[1] => 최초 지점 다음
+        //// ...
+        ////[마지막인덱스] => 목적지
+    }
+
+    void CalcPathFromParent(Pos[,] parent)
+    {
         int y = _board.DestY;
-        int x = _board.DestX; 
+        int x = _board.DestX;
 
-        while (parant[y, x].Y != y || parant[y, x].X != x)
+        while (parent[y, x].Y != y || parent[y, x].X != x)
         {
-            //_points.Push(new Pos(y, x));
-
-            //[0] => 목적지
-            //[1] => 목적지 부모
+            // [0] => 목적지
+            // [1] => 목적지 부모
             // ...
-            //[마지막인덱스] => 최초 지점
-
+            // [마지막인덱스] => 최초 지점
             _points.Add(new Pos(y, x));
-            Pos pos = parant[y, x];
+
+            Pos pos = parent[y, x];
             y = pos.Y;
             x = pos.X;
         }
 
-        _points.Add(new Pos(y, x)); // 최초지점 수동추가
-        _points.Reverse();
-        //[0] => 최초 지점
-        //[1] => 최초 지점 다음
+        _points.Add(new Pos(y, x)); // 최초지점 수동 추가
+        // [0] => 최초 지점
+        // [1] => 최초 지점 다음
         // ...
-        //[마지막인덱스] => 목적지
+        // [마지막인덱스] => 목적지
+        _points.Reverse();
+    }
+
+    //스트럭트로 만든 이유
+    // 1. 값형식이라 힙할당 / GC 부담이 없음
+    // class는 참조형식이라 new 할때마다 힙(heap)에 객체가 생기고, GC가 관리해야함
+    // struct는 값형식이라 스택이나 배열 내부에 바로 저장됨
+    // 즉, 우선순위 큐에서 엄청많은 노드를 Push/Pop 할때 GC Alloc이 줄고 성능이 좋아질수 있음
+
+    //2. 크기가 작은 데이터 묶음이기 때문에 struct가 적절
+    // PQNode가 담고 잇는 필드가 몇개 안되고 struct가 딱 그런 변수들의 묶음 덩어리용으로 쓰임
+    // .net의 디자인 가이드에도 구조체가 16바이트 이내라면 클래스(객체)보다 성능상 유리하다 나와있음
+
+    struct PQNode : IComparable<PQNode>
+    {
+        public int F;
+        public int G;
+        public int Y;
+        public int X;
+
+        public int CompareTo(PQNode other)
+        {
+            if (F == other.F)
+            {
+                return 0;
+            }
+
+            return F < other.F ? 1 : -1;
+        }
+    }
+
+    
+
+
+    void Astar()
+    {
+        //up left down right + UL DL DR UR
+        int[] dY = new int[] { -1, 0, 1, 0, -1, 1, 1, -1 };
+        int[] dX = new int[] { 0, -1, 0, 1, -1, -1, 1, 1 };
+
+        int[] cost = new int[] { 10, 10, 10, 10, 14, 14, 14, 14 }; // G
+
+        //점수 매기기
+        // F = G + H
+        // F = 최종 점수 (작울 수록 좋음, 경로에 따라 달라짐)
+        // G = 시작점에서 해당 좌표까지 이동하는데 드는 비용(작을수록 좋음, 경로에 따라 달라짐)
+        // H = 목적지에서 얼마나 가까운지 (작을수록 좋음, 고정) (칸마다 값이 고정)
+
+        //(y, x) 이미 방문했는지 여부 (방문  = closed 상태)
+        bool[,] closed = new bool[_board.Size, _board.Size]; //CloseList 
+        //(y, x) 가는 길을 한번이라도 발견했는지
+        // 발견 X -> MaxValue
+        int[,] open = new int[_board.Size, _board.Size]; // OpenList
+
+        for (int y = 0; y < _board.Size; y++)
+        {
+            for (int x = 0; x < _board.Size; x++)
+            {
+                open[y, x] = Int32.MaxValue;
+            }
+        }
+
+        Pos[,] parent = new Pos[_board.Size, _board.Size];
+
+        //오픈리스트에 있는 정보들 중에서, 가장 좋은 후보를 빠르게 뽑아오기 위한 우선순위 큐
+        PriorityQueue<PQNode> pq = new PriorityQueue<PQNode>();
+
+
+        //시작점 발견(예약진행)
+        open[PosY, PosX] = /* G = 0 */ /* H = -> */10 * (Math.Abs(_board.DestY - PosY) + Math.Abs(_board.DestX - PosX));
+
+        pq.Push(new PQNode()
+        {
+            F = 10 * (Math.Abs(_board.DestY - PosY) + Math.Abs(_board.DestX - PosX)),
+            G = 0,
+            Y = PosY,
+            X = PosX
+        });
+
+        parent[PosY, PosX] = new Pos(PosY, PosX);
+
+        while (pq.Count /*Count()*/ > 0)
+        {
+            //제일 좋은 후보 찾기
+            PQNode Node = pq.Pop();
+
+            //동일한 좌표를 여러경로로 찾아서 , 더 빠른 경로로 인해서 이미 방문(cloesd)된 경우 스킵
+
+            // 우리가 만든 PriorityQueue는 DecreaseKey가 없는 단순 Push/Pop 임
+            // 같은 큐에 같은 키가 들어왔을때 최적키만 남기고 더 나쁜키는 버리는 기능이 없음
+            // 중복되는 키가 생길수도 있고 그걸 방지하기 위한 코드
+            if (closed[Node.Y, Node.X])
+                continue;
+
+            //방문 하기
+            closed[Node.Y, Node.X] = true;
+
+            //목적지에 도착하면 바로 종료
+            if (Node.Y == _board.DestY && Node.X == _board.DestX)
+                break;
+
+            //상하좌우 등 이동할수 잇는 좌표인지 확인해서 예약(open) 한다
+            for (int i= 0; i < 8 /*dY.Length*/; i++)
+            {
+                int nextY = Node.Y + dY[i];
+                int nextX = Node.X + dX[i];
+
+                //유효범위 벗어나면 스킵
+                if (nextY < 0 || nextY > _board.Size || nextX < 0 || nextX > _board.Size)
+                    continue;
+
+                //벽으로 막혀있으면 스킵(연결끊기면 스킵)
+                if (_board.Tile[nextY, nextX] == TileType.Wall)
+                    continue;
+
+                //이미 방문 했으면 스킵
+                if (closed[nextY, nextX] == true)
+                    continue;
+
+                //비용 계산
+                int g = Node.G + cost[i];
+                int h = 10 * (Math.Abs(_board.DestY - nextY) + Math.Abs(_board.DestX - nextX));
+
+                //다른 경로에서 더 빠른길을 이미 찾았으면 스킵
+                if (open[nextY, nextX] < g + h)
+                    continue;
+
+                //예약 진행
+                open[nextY, nextX] = g + h;
+
+                //큐에 삽입
+                pq.Push(new PQNode() { F = g + h, G = g, Y = nextY, X = nextX });
+                parent[nextY, nextX] = new Pos(Node.Y, Node.X);
+            }
+        }
+
+        CalcPathFromParent(parent);
     }
 
     private const float MOVE_TICK = 0.1f;

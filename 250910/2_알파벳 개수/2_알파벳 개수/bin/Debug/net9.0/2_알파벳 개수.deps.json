@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "2_알파벳 개수/1.0.0": {
+        "runtime": {
+          "2_알파벳 개수.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_알파벳 개수/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

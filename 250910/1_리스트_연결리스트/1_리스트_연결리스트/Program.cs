@@ -29,13 +29,9 @@
 
         public void removeAt(int index)
         {
-            T[] listCopy = new T[list.Length];
-            int c = 0;
-
             for (int i = index; i < count; i++)
             {
                 list[i] = list[i + 1];
-                c++;
             }
             count--;
         }
@@ -136,11 +132,11 @@
 
             MyList2 i2 = new MyList2();
 
-            Node n = i2.AddLast(1);
+            i2.AddLast(1);
             i2.AddLast(2);
             i2.AddLast(3);
             i2.AddLast(4);
-            i2.AddLast(5);
+            Node n = i2.AddLast(5);
 
             i2.Remove(n);
         }
