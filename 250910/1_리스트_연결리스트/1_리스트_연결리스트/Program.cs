@@ -81,14 +81,12 @@
         {
             if (data == head)
             {
-                head.next = head;
-                head.prev = null;
+                head = null;
             }
 
             if (data == tail)
             {
-                tail.prev = tail;
-                tail.next = null;
+                tail = null;
             }
 
             if (data.prev != null)
@@ -100,7 +98,7 @@
             {
                 (data.next).prev = data.prev;
             }
-
+            
             count--;
         }
     }
@@ -139,8 +137,8 @@
             i2.AddLast(1);
             i2.AddLast(2);
             i2.AddLast(3);
-            Node n = i2.AddLast(4);
-            i2.AddLast(5);
+            i2.AddLast(4);
+            Node n = i2.AddLast(5);
 
             i2.Remove(n);
         }
