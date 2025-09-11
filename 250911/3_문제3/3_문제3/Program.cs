@@ -12,24 +12,36 @@
                 { 1, 1, 1 }
             };
 
-            if (Y + 1 < map.GetLength(0))
-            {
-                map[Y + 1, X]++;
-            }
+            //if (Y + 1 < map.GetLength(0))
+            //{
+            //    map[Y + 1, X]++;
+            //}
 
-            if (Y - 1 >= 0)
-            {
-                map[Y - 1, X]++;
-            }
+            //if (Y - 1 >= 0)
+            //{
+            //    map[Y - 1, X]++;
+            //}
 
-            if (X + 1 < map.GetLength(0))
-            {
-                map[Y, X + 1]++;
-            }
+            //if (X + 1 < map.GetLength(0))
+            //{
+            //    map[Y, X + 1]++;
+            //}
 
-            if (X - 1 >= 0)
+            //if (X - 1 >= 0)
+            //{
+            //    map[Y , X - 1]++;
+            //}
+
+            int[] deltaY = { -1, 0, 1, 0 };
+            int[] deltaX = { 0, 1, 0, -1 };
+
+            for (int i = 0; i < 4; i++)
             {
-                map[Y , X - 1]++;
+                int nY = Y + deltaY[i];
+                int nX = X + deltaX[i];
+                if (nY < 0 || nY >= map.GetLength(0) || nX < 0 || nX >= map.GetLength(1))
+                    continue;
+                map[nY, nX]++;
             }
 
             for (int i = 0; i < map.GetLength(0); i++)
@@ -40,6 +52,8 @@
                 }
                 Console.WriteLine();
             }
+
+
         }
 
         static void Main(string[] args)
@@ -69,7 +83,7 @@
                 Console.WriteLine();
             }
 
-            Add(2, 2);
+            Add(1, 1);
         }
     }
 }
