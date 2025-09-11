@@ -2,6 +2,46 @@
 {
     internal class Program
     {
+
+        static void Add(int Y, int X)
+        {
+            int[,] map =
+            {
+                { 1, 1, 1 },
+                { 1, 1, 1 },
+                { 1, 1, 1 }
+            };
+
+            if (Y + 1 < map.GetLength(0))
+            {
+                map[Y + 1, X]++;
+            }
+
+            if (Y - 1 >= 0)
+            {
+                map[Y - 1, X]++;
+            }
+
+            if (X + 1 < map.GetLength(0))
+            {
+                map[Y, X + 1]++;
+            }
+
+            if (X - 1 >= 0)
+            {
+                map[Y , X - 1]++;
+            }
+
+            for (int i = 0; i < map.GetLength(0); i++)
+            {
+                for (int j = 0; j < map.GetLength(0); j++)
+                {
+                    Console.Write($"{map[i, j]}");
+                }
+                Console.WriteLine();
+            }
+        }
+
         static void Main(string[] args)
         {
             int[,] arr =
@@ -28,6 +68,8 @@
                 }
                 Console.WriteLine();
             }
+
+            Add(2, 2);
         }
     }
 }
