@@ -83,6 +83,10 @@
             {
                 Console.WriteLine($"\n{ex}"); // 오류내용 출력
             }
+            finally
+            {
+                Console.WriteLine("\n 예외가 있던 없던 무조건 finally에 있는 것은 무조건 실행됨");
+            }
         }
     }
 }

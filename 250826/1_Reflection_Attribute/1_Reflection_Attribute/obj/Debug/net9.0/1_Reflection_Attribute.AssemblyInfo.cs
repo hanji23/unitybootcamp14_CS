@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("4_Exception")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("1_Reflection_Attribute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6acd4739d4fd2544b1f1abeae36271805adf56a")]
-[assembly: System.Reflection.AssemblyProductAttribute("4_Exception")]
-[assembly: System.Reflection.AssemblyTitleAttribute("4_Exception")]
+[assembly: System.Reflection.AssemblyProductAttribute("1_Reflection_Attribute")]
+[assembly: System.Reflection.AssemblyTitleAttribute("1_Reflection_Attribute")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

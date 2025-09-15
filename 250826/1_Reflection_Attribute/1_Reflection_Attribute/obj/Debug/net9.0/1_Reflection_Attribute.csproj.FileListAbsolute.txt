@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\bin\Debug\net9.0\1_Reflection_Attribute.exe
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\bin\Debug\net9.0\1_Reflection_Attribute.deps.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\bin\Debug\net9.0\1_Reflection_Attribute.runtimeconfig.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\bin\Debug\net9.0\1_Reflection_Attribute.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\bin\Debug\net9.0\1_Reflection_Attribute.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.sourcelink.json
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\refint\1_Reflection_Attribute.dll
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.pdb
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\1_Reflection_Attribute.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\unitybootcamp14_CS\250826\1_Reflection_Attribute\1_Reflection_Attribute\obj\Debug\net9.0\ref\1_Reflection_Attribute.dll
