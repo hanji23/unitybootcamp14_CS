@@ -1,6 +1,4 @@
-﻿using static System.Net.Mime.MediaTypeNames;
-
-namespace _4_BFS
+﻿namespace _4_BFS
 {
     class Graph
     {
@@ -67,11 +65,6 @@ namespace _4_BFS
 
     internal class Program
     {
-        static void BFS()
-        {
-
-        }
-
         static void Main(string[] args)
         {
             Graph g = new Graph();
@@ -100,6 +93,8 @@ namespace _4_BFS
 
             int[,] distance = new int[n, m];
 
+            visited[0, 0] = true;
+
             Queue<(int, int)> queue = new Queue<(int, int)>();
 
             queue.Enqueue((0, 0));
@@ -108,7 +103,7 @@ namespace _4_BFS
             while (queue.Count > 0)
             {
                 (int y, int x) = queue.Dequeue();
-                visited[y, x] = true;
+                
 
                 for (int i = 0; i < 4; i++)
                 {
@@ -127,13 +122,11 @@ namespace _4_BFS
 
                     queue.Enqueue((nextY, nextX));
                     distance[nextY, nextX] = distance[y, x] + 1;
-
+                    visited[nextY, nextX] = true;
                 }
             }
 
             Console.WriteLine(distance[n - 1, m - 1]);
-
-            //map = new int[n, m];
         }
     }
 }
