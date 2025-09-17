@@ -17,48 +17,63 @@
                 {
                     TreeNode<string> nodeD = new TreeNode<string>() { Data = "D" };
                     {
-                        nodeD.Children.Add(new TreeNode<string>() { Data = "H" });
-                        nodeD.Children.Add(new TreeNode<string>() { Data = "I" });
-                        //TreeNode<string> nodeH = new TreeNode<string>() { Data = "H" };
-                        //TreeNode<string> nodeI = new TreeNode<string>() { Data = "I" };
+                        TreeNode<string> nodeH = new TreeNode<string>() { Data = "H" };
+                        TreeNode<string> nodeI = new TreeNode<string>() { Data = "I" };
+
+                        nodeD.Children.Add(nodeH);
+                        nodeD.Children.Add(nodeI);
                     }
                     TreeNode<string> nodeE = new TreeNode<string>() { Data = "E" };
 
                     nodeB.Children.Add(nodeD);
                     nodeB.Children.Add(nodeE);
                 }
-
                 TreeNode<string> nodeC = new TreeNode<string>() { Data = "C" };
                 {
-                    nodeC.Children.Add(new TreeNode<string>() { Data = "F" });
-                    nodeC.Children.Add(new TreeNode<string>() { Data = "G" });
-                    //TreeNode<string> nodeD = new TreeNode<string>() { Data = "F" };
-                    //TreeNode<string> nodeE = new TreeNode<string>() { Data = "G" };
+                    TreeNode<string> nodeF = new TreeNode<string>() { Data = "F" };
+                    TreeNode<string> nodeG = new TreeNode<string>() { Data = "G" };
+
+                    nodeC.Children.Add(nodeF);
+                    nodeC.Children.Add(nodeG);
                 }
 
                 root.Children.Add(nodeB);
                 root.Children.Add(nodeC);
             }
+
             return root;
         }
+
 
         static void PrintTree(TreeNode<string> node)
         {
             Console.WriteLine(node.Data);
 
-            if (node.Children.Count > 0)
+            foreach (TreeNode<string> child in node.Children)
             {
-                foreach( TreeNode<string> child in node.Children)
-                {
-                    PrintTree(child);
-                }
+                PrintTree(child);
             }
+        }
+
+        static int GetHeight(TreeNode<string> node)
+        {
+            int height = 0;
+
+            foreach (TreeNode<string> child in node.Children)
+            {
+                int nextheight = GetHeight(child) + 1;
+
+                if (nextheight > height)
+                    height = nextheight;
+
+            }
+            return height;
         }
 
         static void Main(string[] args)
         {
             var root = MakeTree();
-            PrintTree(root);
+            Console.WriteLine(GetHeight(root));
 
         }
     }
