@@ -34,7 +34,7 @@ public class UI_Inven_item : UI_Base
         GetGameObject((int)GameObjects.ItemNameText).GetComponent<Text>().text = _name;
         //GetGameObject((int)GameObjects.ItemIcon).GetComponent<Image>().sprite = 사용할 이미지;
 
-        GetGameObject((int)GameObjects.ItemIcon).AddUIEvent((PointerEventData data) => { Debug.Log($"{_name}"); });
+        GetGameObject((int)GameObjects.ItemIcon).BindEvent((PointerEventData data) => { Debug.Log($"{_name}"); });
     }
 
     public void SetInfo(string name)

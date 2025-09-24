@@ -38,7 +38,12 @@ public class PlayerController : MonoBehaviour
         //    UI_Button ui = Managers.UI.ShowPopupUI<UI_Button>();
         //}
 
-        Managers.UI.ShowSceneUI<UI_Inven>();
+        //Managers.UI.ShowSceneUI<UI_Inven>();
+
+        Logger.Log("1");
+        Logger.LogWarning("2");
+        Logger.LogError("3");
+
     }
 
     void UpdateDie()

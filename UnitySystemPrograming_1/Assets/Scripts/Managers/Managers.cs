@@ -1,3 +1,4 @@
+using UnityEditor.EditorTools;
 using UnityEngine;
 
 public class Managers : MonoBehaviour
@@ -13,6 +14,16 @@ public class Managers : MonoBehaviour
 
     private UIManager _ui = new UIManager();
     public static UIManager UI {  get { return Instance._ui; } }
+
+    private SceneManagerEx _scene = new SceneManagerEx();
+    public static SceneManagerEx Scene { get { return Instance._scene; } }
+
+    private SoundManager _sound = new SoundManager();
+    public static SoundManager Sound { get { return Instance._sound; } }
+
+    private PoolManager _pool = new PoolManager();
+    public static PoolManager Pool { get { return Instance._pool; } }
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -39,6 +50,16 @@ public class Managers : MonoBehaviour
 
             DontDestroyOnLoad(go);
             s_Instance = go.GetComponent<Managers>();
+
+            s_Instance._sound.Init();
         }
+    }
+
+    public static void Clear()
+    {
+        Sound.Clear();
+        Input.Clear();
+        UI.Clear();
+        Scene.Clear();
     }
 }

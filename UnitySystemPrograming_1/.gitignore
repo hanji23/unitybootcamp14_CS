@@ -77,3 +77,4 @@ crashlytics-build.properties
 # Assets ignore
 /[~2]50723
 /[Aa]ssets/Resources/Art
+/[Aa]ssets/Resources/Sounds

@@ -48,7 +48,7 @@ public class UI_Button : UI_Popup
         // 저장 공간에서 해당 하는 형식의 컴퍼넌트 가져와서 사용
         //GetText((int)Texts.ScoreText).text = "Bind Test";
 
-        GetButton((int)Buttons.PointButton).gameObject.AddUIEvent(OnButtonClicked);
+        GetButton((int)Buttons.PointButton).gameObject.BindEvent(OnButtonClicked);
 
         GameObject go = GetImage((int)Images.ItemIcon).gameObject;
 
