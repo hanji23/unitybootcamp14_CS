@@ -75,6 +75,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
+/[Aa]ssets/Art
 /[Aa]ssets/Resources/Art
 /[Aa]ssets/Fonts
 /[Aa]ssets/Resources/Sounds
