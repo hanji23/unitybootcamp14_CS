@@ -5,62 +5,79 @@ using UnityEngine.UI;
 
 public class TitleManager : MonoBehaviour
 {
+    [SerializeField] private Animation _logoAnim;
+    [SerializeField] private TextMeshProUGUI _logoText;
 
-    public Animation LogoAnim;
-    public TextMeshProUGUI LogoText;
+    [SerializeField] private GameObject _title;
+    [SerializeField] private Slider _loadingSlider;
+    [SerializeField] private TextMeshProUGUI _loadingProgressText;
 
-    public GameObject Title;
-
-    public Slider _loadingSlider;
-    public TextMeshProUGUI _loadingProgressText;
-
-    private AsyncOperation _asyncOperation;
+    private AsyncOperation m_asyncOperation;
 
     private void Awake()
     {
-        LogoAnim.gameObject.SetActive(true);
-        Title.SetActive(false);
+        _logoAnim.gameObject.SetActive(true);
+        _title.SetActive(false);
     }
 
     private void Start()
     {
-        StartCoroutine(LoadGameCoroutine());
+        // 유저 데이터 로드
+        UserDataManager.Instance.LoadUserData();
+
+        // 저장된 유저 데이터가 없으면 기본값으로 세팅 후 저장
+        if (UserDataManager.Instance.ExistsSaveData == false)
+        {
+            UserDataManager.Instance.SetDefaultUserData();
+            UserDataManager.Instance.SaveUserData();
+        }
+
+        // temp
+        ConfirmUIData confirmUIData = new ConfirmUIData();
+        confirmUIData.ConfirmType = ConfirmType.OK;
+        confirmUIData.TitleText = "UI TEST";
+        confirmUIData.DescText = "THIS IS UI TEST";
+        confirmUIData.OKBtnText = "OK";
+        UIManager.Instance.OpenUI<ConfirmUI>(confirmUIData);
+
+
+        //StartCoroutine(LoadGameCo());
     }
 
-    private IEnumerator LoadGameCoroutine()
+    private IEnumerator LoadGameCo()
     {
-        Logger.Log($"{GetType()} :: LoadGameCoroutine");
+        Logger.Log($"{GetType()}::LoadGameCo");
 
-        LogoAnim.Play();
-        yield return new WaitForSeconds(LogoAnim.clip.length);
+        _logoAnim.Play();
+        yield return new WaitForSeconds(_logoAnim.clip.length);
 
-        LogoAnim.gameObject.SetActive(false);
-        Title.SetActive(true);
+        _logoAnim.gameObject.SetActive(false);
+        _title.SetActive(true);
 
-        _asyncOperation = SceneLoader.Instance.LoadSceneAsync(SceneType.Lobby);
-
-        if (_asyncOperation == null)
+        m_asyncOperation = SceneLoader.Instance.LoadSceneAsync(SceneType.Lobby);
+        if (m_asyncOperation == null)
         {
-            Logger.Log($"로딩 에러");
+            Logger.LogError("Lobby async loading error.");
             yield break;
         }
 
-        _asyncOperation.allowSceneActivation = false; // 씬이동을 자동으로 하는 것을 막기 위한 코드
+        m_asyncOperation.allowSceneActivation = false;
 
-        //_loadingSlider.value = 0.5f;
-        _loadingProgressText.text = ((int)(_loadingSlider.value * 100)).ToString();
+        _loadingSlider.value = 0.5f;
+        _loadingProgressText.text = $"{(int)(_loadingSlider.value * 100)} %";
         yield return new WaitForSeconds(0.5f);
 
-        while (_asyncOperation.isDone == false)
+        while(m_asyncOperation.isDone == false)
         {
-            _loadingSlider.value = _asyncOperation.progress < 0.5f ? 0.5f : _asyncOperation.progress;
-            _loadingProgressText.text = ((int)(_loadingSlider.value * 100)).ToString();
+            _loadingSlider.value = m_asyncOperation.progress < 0.5f ? 0.5f : m_asyncOperation.progress;
+            _loadingProgressText.text = $"{(int)(_loadingSlider.value * 100)} %";
 
-            if(_asyncOperation.progress >= 0.9f)
+            if (m_asyncOperation.progress >= 0.9f)
             {
-                _asyncOperation.allowSceneActivation = true;
+                m_asyncOperation.allowSceneActivation = true;
                 yield break;
             }
+
             yield return null;
         }
     }

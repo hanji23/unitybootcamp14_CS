@@ -5,14 +5,14 @@ public enum SceneType
 {
     Title,
     Lobby,
-    InGame,
+    InGame
 }
 
 public class SceneLoader : SingletonBehaviour<SceneLoader>
 {
     public void LoadScene(SceneType sceneType)
     {
-        Logger.Log($"{sceneType} scene Loading ... ");
+        Logger.Log($"{sceneType} scene loading...");
 
         Time.timeScale = 1f;
         SceneManager.LoadScene(sceneType.ToString());
@@ -20,16 +20,17 @@ public class SceneLoader : SingletonBehaviour<SceneLoader>
 
     public void ReloadScene()
     {
-        Logger.Log($"{SceneManager.GetActiveScene().name} scene Loading ... ");
+        Logger.Log($"{SceneManager.GetActiveScene().name} scene loading...");
+
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public AsyncOperation LoadSceneAsync(SceneType sceneType)
     {
-        Logger.Log($"{SceneManager.GetActiveScene().name} scene Loading ... ");
-        Time.timeScale = 1f;
+        Logger.Log($"{sceneType} scene loading...");
 
+        Time.timeScale = 1f;
         return SceneManager.LoadSceneAsync(sceneType.ToString());
     }
 }

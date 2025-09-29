@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class SingletonBehaviour<T> : MonoBehaviour where T : SingletonBehaviour<T>//싱글톤들의 베이스 클래스
+public class SingletonBehaviour<T> : MonoBehaviour where T : SingletonBehaviour<T>
 {
-    protected bool m_IsDestroyOnLoad = false; // DestroyOnLoad 여부
+    protected bool m_IsDestroyOnLoad = false;
 
     protected static T m_Instance;
 
@@ -21,28 +21,23 @@ public class SingletonBehaviour<T> : MonoBehaviour where T : SingletonBehaviour<
         if (m_Instance == null)
         {
             m_Instance = (T)this;
-            if (!m_IsDestroyOnLoad) 
-            {
+
+            if (m_IsDestroyOnLoad == false)
                 DontDestroyOnLoad(this);
-            }
         }
         else
         {
             Destroy(gameObject);
         }
-           
     }
 
     protected virtual void OnDestroy()
     {
         Dispose();
     }
-    
+
     protected virtual void Dispose()
     {
         m_Instance = null;
     }
 }
-
-
-
